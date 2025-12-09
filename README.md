@@ -1,2 +1,2 @@
-# remote-repo
-这是一个用于学习Git的示例仓库。
+# wechat-miniprogram-tabbar
+这是一个用于微信小程序的底部导航栏组件。
