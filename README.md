@@ -16,8 +16,7 @@ Building video search & playback websites, dashboards, and mini-apps.
 - Front-end engineering best practices
 
 ### 📫 Contact me
-- Email: your@email.com
-- Blog: (如果有)
+- Email: 15518168435@163.com
 
 Thanks for visiting my GitHub! 🌟
 
